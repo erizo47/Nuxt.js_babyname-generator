@@ -91,7 +91,7 @@ h1 {
 }
 .options-container {
   background-color: rgba(255, 238, 236, 0.926);
-  box-shadow:  -49px -49px 85px #FFEEED, 49px 24px 90px #FFEEED;
+  box-shadow:  -49px -29px 45px #FFEEED, 79px 24px 40px #FFEEED, 49px -24px 40px #FFEEED, -49px 24px 40px #FFEEED;
   border-radius: 2rem;
   padding: 1rem;
   width: 95%;
@@ -101,7 +101,7 @@ h1 {
 }
 
 .primary {
-  background-color: rgb(249, 87, 89);
+  background-color: rgb(241, 70, 72);
   color: white;
   border-radius: 6.5rem;
   border: none;
