@@ -4,6 +4,6 @@ export default defineNuxtConfig({
         head: {
             title: 'Babyname generator'
         },
-        baseURL: '/Nuxt.js_babyname-generator/' // baseURL: '/<repository>/'
     },
+    
 })

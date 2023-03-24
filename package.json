@@ -1,18 +1,13 @@
 {
   "private": true,
-  "homepage": "https://github.com/erizo47/Nuxt.js_babyname-generator",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "deploy": "gh-pages -d dist",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
     "nuxt": "^3.3.1"
-  },
-  "dependencies": {
-    "gh-pages": "^5.0.0"
   }
 }
